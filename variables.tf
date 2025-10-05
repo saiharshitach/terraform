@@ -1,8 +1,8 @@
 variable "env" {
-   default = "dit"
-   type = string
+  default = "dit"
+  type    = string
 }
 
 variable "awsregion" {
-   default = "ap-south-1"
+  default = "ap-south-1"
 }
